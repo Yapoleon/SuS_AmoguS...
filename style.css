@@ -1,0 +1,19 @@
+html {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    background-color: #abcdef;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+#welcome {
+    position: absolute;
+    bottom: 0;
+    background: #60ebeb;
+    display: table;
+    width: 25%;
+    height: 25%;
+}
